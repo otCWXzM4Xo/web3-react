@@ -53,5 +53,8 @@
     "semi": false,
     "singleQuote": true,
     "printWidth": 120
+  },
+  "publishConfig": {
+    "@otCWXzM4Xo:registry": "https://npm.pkg.github.com"
   }
 }
